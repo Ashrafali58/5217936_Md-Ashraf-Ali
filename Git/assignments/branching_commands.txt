@@ -1,0 +1,6 @@
+git branch branch-name
+git checkout -b branch-name   //creates new branch and switch it to directly
+git branch //lists all the available branches and marks current branch with *
+git push -u origin branch-name //pushes new branch to remote
+
+
